@@ -1,2 +1,3 @@
-#Placeholder for a model
-class Recipe 
+class Recipe < ActiveRecord::Base
+  #Placeholder for a model  
+end
